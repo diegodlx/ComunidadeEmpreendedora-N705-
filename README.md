@@ -46,6 +46,9 @@ Para esta aplicação será utilizado banco de dados relacional PostgreSQL.
 ## Diagrama de fluxo do sistema
 <img width="655" height="647" alt="Image" src="https://github.com/user-attachments/assets/6352f0d6-043d-47a0-a468-064044d491fa" />
 
+## Realização de testes
+Todos os testes serão realizados de forma manual, sendo os testes unitários (para cada microsserviço) realizado após o desenvolvimento do mesmo e os testes de integração (entre os microsserviços) serão executados ao final do desenvolvimentos de microsserviços correlatos. Ao final do desenvolviemtno serão realizados testes para testar a solução na íntegra.
+
 ## Cronograma para etapa 2 (N708)
 <img width="388" height="900" alt="Image" src="https://github.com/user-attachments/assets/682b7988-6b7f-4961-8b1d-0b618e62d99c" />
 
