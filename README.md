@@ -43,6 +43,9 @@ Para esta aplicação será utilizado banco de dados relacional PostgreSQL.
 ### Diarama de arquitetura
 <img width="585" height="345" alt="Image" src="https://github.com/user-attachments/assets/44eef1bd-aa60-4d13-bbb1-a34adac7270d" />
 
+##Diagrama de fluxo do sistema
+<img width="655" height="647" alt="Image" src="https://github.com/user-attachments/assets/6352f0d6-043d-47a0-a468-064044d491fa" />
+
 ## Cronograma para etapa 2 (N708)
 <img width="388" height="900" alt="Image" src="https://github.com/user-attachments/assets/682b7988-6b7f-4961-8b1d-0b618e62d99c" />
 
